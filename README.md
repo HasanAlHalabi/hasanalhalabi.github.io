@@ -1,2 +1,0 @@
-# dental-app-web-live
-
